@@ -7,13 +7,13 @@ A Full Stack JavaScript Developer 🚀
 I have worked with :
 React+Firebase , 
 Sequelize,
-postgres,
+Postgres,
 
-Want to become a full-time and an Open Source Contributor ❤️.
+I want to become a full-time and an Open Source Contributor ❤️.
 
 ## About Me :wave:
 
-I'm a 31-year-old web developer from Venezuela and currently reside in Perú,  I just finished a Full Stack Developer Program at Henry Bootcamp, and I'm looking for open-source projects to contribute to and people to collaborate with! 
+I'm a 31-year-old web developer from Venezuela currently living in Peru. I just finished a Full Stack Developer Program at Henry Bootcamp, and I'm looking for open-source projects to contribute to and people to collaborate with! 
 
 ## ⚡ Technologies
 Talk to me about
@@ -69,6 +69,7 @@ Teamwork developing a Marketplace type app to be able to register and log in thr
 
 Code:
 front - https://github.com/IvanVelazquezz98/Medicine-App-FRONT
+
 back - https://github.com/neleon10/MEDICINE-APP-BACK
 
 Page: https://medicine-app-ruddy.vercel.app/
