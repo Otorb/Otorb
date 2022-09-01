@@ -72,7 +72,7 @@ front - https://github.com/IvanVelazquezz98/Medicine-App-FRONT
 
 back - https://github.com/neleon10/MEDICINE-APP-BACK
 
-Page: https://medicine-app-ruddy.vercel.app/
+Page: https://medicine-app-ten.vercel.app/
 
  **Home**
 ![image](https://user-images.githubusercontent.com/95004246/187353192-d9afe4d8-700d-40fd-990e-63942e6ac3cf.png)
